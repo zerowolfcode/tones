@@ -1,16 +1,3 @@
 CACHE MANIFEST
 #0
-/tones/
-http://www.harmonize.com/metropolis/images/Sounds/AFlat.mp3
-http://www.harmonize.com/metropolis/images/Sounds/ANatural.mp3
-http://www.harmonize.com/metropolis/images/Sounds/BFlat.mp3
-http://www.harmonize.com/metropolis/images/Sounds/BNatural.mp3
-http://www.harmonize.com/metropolis/images/Sounds/CNatural.mp3
-http://www.harmonize.com/metropolis/images/Sounds/CSharp.mp3
-http://www.harmonize.com/metropolis/images/Sounds/DNatural.mp3
-http://www.harmonize.com/metropolis/images/Sounds/EFlat.mp3
-http://www.harmonize.com/metropolis/images/Sounds/ENaturalHigh.mp3
-http://www.harmonize.com/metropolis/images/Sounds/FNatural.mp3
-http://www.harmonize.com/metropolis/images/Sounds/FSharp.mp3
-http://www.harmonize.com/metropolis/images/Sounds/GNatural.mp3
-http://www.harmonize.com/metropolis/images/Sounds/AFlat.mp3
+/tones/*
